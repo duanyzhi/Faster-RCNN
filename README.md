@@ -9,15 +9,15 @@ datasets:
 
 the kitti data should be like this in your folder:
   ├── KITTI2012               
-      ├── Annotations
-      │   └── *.xml
+      ├── Annotations 
+      │   └── *.xml 
       │
-      ├── ImageSets
-      │   └── Main
-      │       ├── train.txt
-      │       └── test.txt
-      |       └── trainval.txt
-      |       └── val.txt
+      ├── ImageSets 
+      │   └── Main 
+      │       ├── train.txt 
+      │       └── test.txt 
+      │       └── trainval.txt 
+      │       └── val.txt 
       └── PNGImages
           └── ***.png
 
