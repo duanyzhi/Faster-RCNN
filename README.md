@@ -4,9 +4,10 @@ my python code for faster rcnn
 
 Reference Paper:[Faster RCNN](https://arxiv.org/abs/1506.01497)   
 My Github Code:[Faster-RCNN](https://github.com/duanyzhi/Faster-RCNN)
-This Code is follow: https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3.5
-                     https://github.com/smallcorgi/Faster-RCNN_TF
-		     https://github.com/rbgirshick/py-faster-rcnn
+This Code is follow:   
+     https://github.com/dBeker/Faster-RCNN-TensorFlow-Python3.5   
+     https://github.com/smallcorgi/Faster-RCNN_TF   
+     https://github.com/rbgirshick/py-faster-rcnn   
 
 ## Platform:
 - windows10
