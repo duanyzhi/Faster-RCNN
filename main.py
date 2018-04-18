@@ -3,10 +3,10 @@ from lib.network.net import net
 
 def run():
     model = net('train')
-    model.resnet_rpn()
+    train_step, loss = model.build_faster_rcnn()
     sess = model.gpu_config()
 
-    model.train(sess)
+    model.train(sess, train_step, loss)
 
 run()
 
