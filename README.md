@@ -36,6 +36,6 @@ the kitti data should be like this in your folder:
 ```   
 the kitti demo is in the folder: data/kitti_demo  
 
-## the detail inf about faster rcnn is in [https://github.com/duanyzhi/My_Road_To_Deep_Learning/blob/master/My%20Road%20To%20Deep%20Learning.pdf]  
+## the detail inf about faster rcnn is in [faster rcnn](https://github.com/duanyzhi/My_Road_To_Deep_Learning/blob/master/My%20Road%20To%20Deep%20Learning.pdf)    
 
 
